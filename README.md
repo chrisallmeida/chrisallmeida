@@ -1,4 +1,4 @@
-Olá, meu nome é Christiano de Almeida Lopes
+Olá, meu nome é Christiano de Almeida Lopes. 
 Na internet (principalmente por causa do meu Canal no Youtube) sou conhecido como Chris Allmida.
 
 Não faz muito tempo que criei minha conta aqui no GITHUB.
