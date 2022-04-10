@@ -1,6 +1,8 @@
 Olá, meu nome é CHris Allmida.
+
 Não faz muito tempo que criei minha conta aqui no GITHUB.
 Contudo, já trabalho com programação há bastante tempo, utilizando o JavaScript e PHP para desenvolver meus projetos.
+
 O fato é que, até então, eu só criava projetos para meu uso pessoal.
 Agora, estou aprendendo novas linguagens e interessado em estabelecer trocas de experiências com outros programadores. 
 Penso que o GITHUB é uma plataforma ideal para isso.
