@@ -1,4 +1,5 @@
-Olá, meu nome é CHris Allmida.
+Olá, meu nome é Christiano de Almeida Lopes
+Na internet (principalmente por causa do meu Canal no Youtube) sou conhecido como Chris Allmida.
 
 Não faz muito tempo que criei minha conta aqui no GITHUB.
 Contudo, já trabalho com programação há bastante tempo, utilizando o JavaScript e PHP para desenvolver meus projetos.
@@ -14,3 +15,7 @@ Contudo, utilizo a programação para elaborar e levar adiante todos os meus pro
 
 Meu site oficial é:
 https://chrisallmeida.com
+
+Meu canal no Youtube:
+https://youtube.com/chrisallmeida
+
